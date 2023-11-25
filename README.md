@@ -1,5 +1,5 @@
 # Bert-ChatBot
-A start to learn about Fine-tuning, this is a simple ChatBot implementation using pretrained Bert with [Chatbots: Intent Recognition Dataset](https://www.kaggle.com/datasets/elvinagammed/chatbots-intent-recognition-dataset).
+A start to learn about Fine-tuning, this is a simple ChatBot implementation using pretrained Bert on [Chatbots: Intent Recognition Dataset](https://www.kaggle.com/datasets/elvinagammed/chatbots-intent-recognition-dataset).
 We use pretrained Bert to know the language, and few MLPs to do the classification job (classes are intents).
 After getting the predicted intent, responses will be randomly selected in the responses pool.
 
